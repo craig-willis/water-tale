@@ -18,7 +18,7 @@ Please cite this as:
 
 > Willis, Craig
 > [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6148-7196)
-> (2020). *Mapping Estimated Water Usage in Texas (staing)*. Demonstration. 
+> (2020). Mapping Estimated Water Usage (staging). http://doi.org/10.5072/zenodo.490450
 
 ## Licenses
 
