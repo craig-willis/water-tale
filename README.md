@@ -1,6 +1,6 @@
 # Mapping Estimated Water Usage in Texas (staging)
 
-[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.490450.svg)](https://doi.org/10.5072/zenodo.490450)
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.490450.svg)](https://sandbox.zenodo.org/record/490450#.XkQXjBNKh24)
 [![Whole Tale](https://raw.githubusercontent.com/whole-tale/wt-design-docs/master/badges/wholetale-badge.svg?sanitize=true)](https://girder.stage.wholetale.org/api/v1/integration/zenodo?doi=10.5072%2Fzenodo.490450&resource_server=sandbox.zenodo.org)
 
 ## Description
