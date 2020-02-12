@@ -1,7 +1,7 @@
 # Mapping Estimated Water Usage in Texas (staging)
 
 [![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.490450.svg)](https://doi.org/10.5072/zenodo.490450)
-[![Whole Tale](https://raw.githubusercontent.com/whole-tale/wt-design-docs/master/badges/wholetale-badge.svg?sanitize=true)](https://girder.stage.wholetale.org/api/v1/integration/zenodo?doi=10.5072%2Fzenodo.490450)
+[![Whole Tale](https://raw.githubusercontent.com/whole-tale/wt-design-docs/master/badges/wholetale-badge.svg?sanitize=true)](https://girder.stage.wholetale.org/api/v1/integration/zenodo?doi=10.5072%2Fzenodo.490450&resource_server=sandbox.zenodo.org)
 
 ## Description
 Demonstration of how to use Whole Tale to develop custom analysis and visualization for data published externally via DataONE.  See https://wholetale.readthedocs.io/en/stable/users_guide/quickstart.html for more information.
